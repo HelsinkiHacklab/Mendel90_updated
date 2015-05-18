@@ -1,0 +1,18 @@
+frame_assembly:
+Vitamins:
+ 34 M4 cap screw x 25mm
+  2 MDF sheet 155mm x 385mm x 12mm
+  1 MDF sheet 475mm x 385mm x 12mm
+  1 MDF sheet 475mm x 422mm x 12mm
+ 36 Nyloc nut M4
+  2 AL square tube 12.7 x 12.7 x 1.63 x 403mm
+ 68 Washer M4 x 9mm x 0.8mm
+ 10 Ziptie 100mm min length
+
+Printed:
+  8 fixing_block.stl
+  2 rear_fixing_block.stl
+  1 ribbon_clamp_20_44N.stl
+  1 ribbon_clamp_26_44N.stl
+  4 tube_cap.stl
+

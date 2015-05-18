@@ -1,1 +1,1 @@
-include <dibond_config.scad>
+include <helsinki_hacklab_config.scad>

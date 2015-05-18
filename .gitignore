@@ -9,3 +9,4 @@ gcode
 *.g*
 dummy.csg
 Thumbs.db
+*.*~
